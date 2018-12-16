@@ -6,7 +6,7 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This programm will show you difference\n",
+            Console.WriteLine("This program will show you difference\n",
             "between reading two-dimentional array\n",
             "by rows and columns.",
             "In the end you can look at optimized variant of reading array");
